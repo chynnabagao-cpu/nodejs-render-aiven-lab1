@@ -6,7 +6,7 @@ const app = express();
 const db = mysql.createConnection({
   host: "mysql-30c9cb90-mysql-lab-project-bagao1.e.aivencloud.com",
   user: "avnadmin",
-  password: "AVNS_BDpJxunqCPNRKCeiYWg",
+  password: "AVNS_wBo_Rf_Fv0rWXVunw5q",
   database: "defaultdb",
   port: "18240"
 });
